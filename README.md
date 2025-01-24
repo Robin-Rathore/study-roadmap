@@ -30,7 +30,7 @@ This repository is a roadmap for tracking my progress in learning various fundam
 |                        | Stack / Heap                              | ✅ Completed   |                                         |
 |                        | IO Scheduling (basics)                    | ✅ Completed   |                                         |
 |                        | Ports                                     | ✅ Completed   |                                         |
-| **Infrastructure**     | Docker (basics, image creation, etc.)     | ❌ Not Started |                                         |
+| **Infrastructure**     | Docker (basics, image creation, etc.)     | 🚧 In Progress |                                         |
 |                        | Orchestrators (Kubernetes basics)         | ❌ Not Started |                                         |
 | **Object-Oriented Programming** | Class / Object                   | ✅ Completed   |                                         |
 |                        | Interface / Abstract Class                | 🚧 In Progress | Revising....                            |
@@ -64,7 +64,7 @@ This repository is a roadmap for tracking my progress in learning various fundam
 | **Security**           | Authentication                            | ✅ Completed   |                                         |
 |                        | Authorization                             | ✅ Completed   |                                         |
 | **Miscellaneous**      | Event Loop in Node.js                     | ❌ Not Started |                                         |
-|                        | Password Salting                          | ❌ Not Started |                                         |
+|                        | Password Salting                          | ✅ Completed   |                                         |
 |                        | IPv6                                      | ❌ Not Started |                                         |
 |                        | DNS Name to IP (A Record Query)           | ❌ Not Started |                                         |
 |                        | Database ORM Frameworks                   | ❌ Not Started |                                         |
